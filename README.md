@@ -2,7 +2,7 @@
 # portafolio_alejandro_hernandez
 Portafolio y currículum de J. Alejandro Hernández S.
 =======
-# Proyecto Portafolio JAHS
+# Proyecto Portafolio J. Alejandro Hernández S.
 
 Archivos iniciales del proyecto para mi portafolio personal y tarjeta de presentación digital.
 
