@@ -1,0 +1,11 @@
+.contacto__titulo {
+    font-size: 1.3rem;
+    text-align: left;
+    color: white;
+    text-transform: uppercase;
+
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+}

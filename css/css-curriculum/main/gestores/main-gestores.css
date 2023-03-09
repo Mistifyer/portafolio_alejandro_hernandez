@@ -1,0 +1,17 @@
+.main__gestores {
+}
+
+.gestores__lista {
+    width: 300px;
+}
+
+@media screen and (min-width: 768px) {
+    .gestores__lista {
+        display: flex;
+        width: 600px;
+    }
+}
+    
+@media screen and (min-width: 1024px) {
+    
+}

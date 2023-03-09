@@ -1,0 +1,97 @@
+main {
+    padding-bottom: 0rem;
+}
+
+section {
+    padding-bottom: 0rem;
+}
+
+.main__titulo1__principal {
+    font-size: 1.3rem;
+    text-align: left;
+    background-color: #79A1B8;
+    color: white;
+    text-transform: uppercase;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 0rem;
+}
+
+.main__titulo1 {
+    font-size: 1.3rem;
+    text-align: left;
+    background-color: #79A1B8;
+    color: white;
+    text-transform: uppercase;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 0rem;
+}
+
+.main__titulo2 {
+    font-size: 1.4rem;
+    text-align: left;
+    background-color: white;
+    color: #142B38;
+
+    padding-top: 1.5rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+}
+
+.main__titulo3 {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    background-color: white;
+    color: #142B38;
+
+    padding-top: 0.3rem;
+    padding-left: 2rem;
+    padding-bottom: 0.3rem;
+    padding-right: 2rem;
+}
+
+.main__parrafo {
+    font-size: 1rem;
+    font-style: normal;
+    background-color: white;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.main__listado__item {
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: lighter;
+    
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 0.7rem;
+}
+
+@media screen and (min-width: 768px) {
+    .div__inicial {
+        display: flex;
+    }    
+
+    .main__titulo1__principal:hover {
+        font-size: 1.3rem;
+        background-color: #79A1B8;
+    }
+
+    .main__titulo1:hover {
+        font-size: 1.4rem;
+        background-color: #428DB8;
+    }
+}
+    
+@media screen and (min-width: 1024px) {
+    
+}

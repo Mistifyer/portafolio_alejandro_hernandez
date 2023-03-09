@@ -1,0 +1,20 @@
+.main__ubicacion {
+    display: none;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main__ubicacion__parrafo {
+    font-size: 1rem;
+    text-align: center;
+    
+    margin-top: 1rem;
+    margin-right: .7rem;
+    margin-bottom: .7rem;
+    margin-left: .7rem;
+}
+

@@ -1,0 +1,20 @@
+.header__fotografia__imagen {
+    margin-top: 0rem;
+}
+
+@media screen and (min-width: 660px) {
+
+    .header__fotografia__imagen {
+        width: 50%;
+        padding: 1rem;
+        border-radius: 10%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 1024px) {
+
+}

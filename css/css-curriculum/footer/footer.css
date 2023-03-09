@@ -1,0 +1,26 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    background-color: #27526B;
+    padding-bottom: 1rem;
+}
+
+.footer__copyrigth {
+    text-align: center;
+    font-size: 0.8rem;
+    color: white;
+    padding-top: 1rem;
+}
+
+.footer__iconos {
+    display: flex;
+    flex-direction: row;
+    max-height: 80px;
+    align-self: center;
+}
+
+.footer__icono {
+    height: 40px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}

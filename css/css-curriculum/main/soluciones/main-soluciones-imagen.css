@@ -1,0 +1,15 @@
+.soluciones__imagen {
+    width: 90%;
+    align-self: center;
+    margin: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+    .soluciones__imagen {
+        width: 95%;
+    }    
+}
+    
+@media screen and (min-width: 1024px) {
+    
+}

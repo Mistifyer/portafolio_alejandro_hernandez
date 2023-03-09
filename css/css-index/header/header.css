@@ -1,0 +1,22 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: #27526B;
+    color:white;
+    text-align: center;
+}
+
+@media screen and (min-width: 660px) {
+    header {
+        display: flex;
+        flex-direction: row;
+    }    
+}
+
+@media screen and (min-width: 768px) {
+
+}
+
+@media screen and (min-width: 1024px) {
+
+}

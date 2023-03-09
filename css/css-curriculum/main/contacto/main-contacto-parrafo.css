@@ -1,0 +1,17 @@
+.contacto__parrafo {
+    text-align: left;
+
+    margin-left: 2rem; 
+    margin-bottom: 2rem;
+    margin-right: 2rem;
+}
+
+strong {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: white;
+}
+
+.main__contacto a {
+    text-decoration-line: underline;
+}

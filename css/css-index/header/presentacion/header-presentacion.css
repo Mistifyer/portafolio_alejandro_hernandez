@@ -1,0 +1,55 @@
+
+.header__presentacion {
+    text-align: center;
+}
+
+.header__presentacion__codigoqr {
+    display: none;
+}
+
+.header__presentacon__titulo {
+    font-size: 2rem;
+    text-align: center;
+    
+    margin-top: 1.5rem;
+    margin-right: .7rem;
+    margin-bottom: 1.5rem;
+    margin-left: .7rem;
+}
+
+.header__presentacion__parrafo {
+    font-size: 1.2rem;
+    text-align: center;
+    
+    margin-top: 1rem;
+    margin-right: .7rem;
+    margin-bottom: .7rem;
+    margin-left: .7rem;
+}
+
+@media screen and (min-width: 660px) {
+    .header__presentacion {
+        width: 50%;
+    }    
+
+    .header__presentacon__titulo {
+        font-size: 1.7rem;
+    }    
+    
+    .header__presentacion__codigoqr {
+        display: block;
+        width: 65%;
+        margin-left: 18%;
+        margin-top: 1.2rem;
+    }   
+}
+
+@media screen and (min-width: 768px) {
+    .header__presentacon__titulo {
+        margin-top: 4rem;
+    }    
+}
+
+@media screen and (min-width: 1024px) {
+
+}

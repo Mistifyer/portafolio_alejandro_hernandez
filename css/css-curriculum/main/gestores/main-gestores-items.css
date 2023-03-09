@@ -1,0 +1,15 @@
+.gestores__items {
+    font-size: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    width: 100%;
+    align-self: center;
+}
+
+@media screen and (min-width: 768px) {
+    
+}
+    
+@media screen and (min-width: 1024px) {
+    
+}

@@ -1,0 +1,48 @@
+.main__gestor ul {
+    width: 90%;
+    padding: 1rem 2rem;
+    text-align: left;
+}
+
+.main__gestor li {
+    display: inline-block;
+    text-align: left;
+
+    max-width: 300px;
+    min-width: 200px;
+
+    vertical-align: top;
+    background: none;
+
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.main__gestor p {
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .main__gestor ul {
+        width: 100%;
+    }
+    
+}
+    
+@media screen and (min-width: 1024px) {
+    .main__gestor ul {
+        width: 100%;
+    }
+}

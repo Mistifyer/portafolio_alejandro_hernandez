@@ -1,0 +1,52 @@
+.main__valores ul {
+    width: 90%;
+    padding: 0rem 1rem 0rem 1rem;
+    text-align: center;
+}
+
+.main__valores h2 {
+    font-weight: bold;
+}
+
+.main__valores li {
+    display: inline-block;
+    text-align: center;
+
+    max-width: 300px;
+    min-width: 200px;
+
+    vertical-align: top;
+    background: none;
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    border-color: #000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.main__valores p {
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .main__valores ul {
+        width: 100%;
+    }
+    
+}
+    
+@media screen and (min-width: 1024px) {
+    .main__valores ul {
+        width: 100%;
+    }
+}
