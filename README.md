@@ -44,3 +44,5 @@
 - Se crea el repositoio en GutHub.
 - Se sincronizan los repositorios con VS.
 - Se termina de documentar en el README.md.
+- Hace la publicación del desarrollo en GitHub Pages.
+- Se determina la liga para acceder al desarrollo en GitHub. https://mistifyer.github.io/portafolio_alejandro_hernandez/

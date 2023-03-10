@@ -46,7 +46,25 @@
 
 @media screen and (min-width: 768px) {
     .header__presentacon__titulo {
-        margin-top: 4rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }    
+
+    .header__presentacion__codigoqr {
+        display: block;
+        width: 50%;
+        margin-left: 22%;
+        margin-top: 1.2rem;
+    }   
+
+    .header__presentacion__parrafo {
+        font-size: 1.1rem;
+        text-align: center;
+        
+        margin-top: .5rem;
+        margin-right: .7rem;
+        margin-bottom: .5rem;
+        margin-left: .7rem;
     }    
 }
 
